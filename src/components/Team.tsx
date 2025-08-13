@@ -36,7 +36,7 @@ const Team: React.FC = () => {
     },
     {
       name: "Mr.Thanathip Premnirandon",
-      role: "VP of Engineering",
+      role: "Full Stack Developer",
       bio: "Full-stack architect specializing in distributed systems and real-time analytics platforms.",
       image: "https://avatars.githubusercontent.com/u/140483668?v=4",
       social: {
