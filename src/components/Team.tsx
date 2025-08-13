@@ -35,13 +35,13 @@ const Team: React.FC = () => {
       }
     },
     {
-      name: "David Kim",
+      name: "Mr.Thanathip Premnirandon",
       role: "VP of Engineering",
       bio: "Full-stack architect specializing in distributed systems and real-time analytics platforms.",
-      image: "https://images.pexels.com/photos/3777943/pexels-photo-3777943.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
+      image: "https://avatars.githubusercontent.com/u/140483668?v=4",
       social: {
-        portfolio: "#",
-        github: "#"
+        portfolio: "https://oganesson018.github.io/my-portfolio/",
+        github: "https://github.com/oganesson018"
       }
     },
     {
